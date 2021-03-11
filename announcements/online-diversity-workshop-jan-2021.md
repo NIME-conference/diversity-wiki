@@ -6,14 +6,14 @@ Please join us for a 2-3 hr zoom workshop in early January where we discuss what
 
 #### Topics
 
-* Present results from the NIME 2020 diversity study and discuss comments and suggestions such as:
+* Present results from the NIME 2020 diversity survey and discuss comments and suggestions such as:
   * Setting up a sibling system to help newcomers to the community navigate NIME language and get the most out of conference attendance
   * English-as-first-language editing assistance for those with great research, but not as great English skills and limited funds to hire assistance. 
 * Develop a mentorship program.
 * Financial and geographical impediments to NIME participation.
 * A diversity workshop for NIME 2021.
 
-We welcome additional ideas and suggestions for discussion and hope this workshop can yield some well defined actionable items.  If you are interested in joining, please contact one of the diversity team members.
+We welcome additional ideas and suggestions for discussion and hope this workshop can yield some well defined actionable items. If you are interested in joining, please contact one of the diversity team members.
 
 ----
 
