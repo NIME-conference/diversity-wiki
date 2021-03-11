@@ -15,3 +15,11 @@ Please join us for a 2-3 hr zoom workshop in early January where we discuss what
 
 We welcome additional ideas and suggestions for discussion and hope this workshop can yield some well defined actionable items.  If you are interested in joining, please contact one of the diversity team members.
 
+----
+
+## Contact
+
+* [Laurel Pardue](mailto:punk@mit.edu)
+* [Juan Martinez Avila](mailto:psxjpma@nott.ac.uk)
+* [Anna Xambo](mailto:anna.xambo@dmu.ac.uk)
+
