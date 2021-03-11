@@ -9,4 +9,3 @@
 ## Entries
 
 * [Diversity Resources](entries/diversity-resources.md)
-
