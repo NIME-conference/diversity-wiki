@@ -4,7 +4,7 @@
 
 ## Announcements
 
-* [Online Diversity Workshop Jan  2021](announcements/online-diversity-workshop-jan-2021.md)
+* [Online Diversity Workshop on January 2021](announcements/online-diversity-workshop-jan-2021.md)
 
 ## Actions
 

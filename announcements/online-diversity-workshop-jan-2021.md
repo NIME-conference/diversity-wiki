@@ -1,4 +1,4 @@
-# Online Diversity Workshop Jan  2021
+# Online Diversity Workshop on January 2021
 
 Please join us for a 2-3 hr zoom workshop in early January where we discuss what we can do to improve diversity and inclusivity within NIME over both the long and short term.
 
