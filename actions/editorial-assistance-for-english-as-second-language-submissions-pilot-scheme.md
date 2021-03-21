@@ -1,4 +1,4 @@
-# Editorial Assistance for English-as-Second-Language Submissions Pilot Scheme
+# Editorial Assistance Pilot Scheme in NIME 2021
 
 One of the initiatives that came out of last year’s diversity survey is providing assistance for NIME authors for whom English is not their first language. The NIME diversity team held a small workshop in mid-January where we discussed this as well as a number of ideas for improving accessibility, diversity, and inclusivity at NIME. While we’re drafting our notes and proposals on other ideas, one of the more immediately time sensitive is editorial proof-reading of submissions. 
 

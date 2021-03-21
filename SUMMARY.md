@@ -8,5 +8,5 @@
 
 ## Actions
 
-* [Editorial Assistance for English-as-Second-Language Submissions Pilot Scheme](actions/editorial-assistance-for-english-as-second-language-submissions-pilot-scheme.md)
+* [Editorial Assistance Pilot Scheme in NIME 2021](actions/editorial-assistance-for-english-as-second-language-submissions-pilot-scheme.md)
 
