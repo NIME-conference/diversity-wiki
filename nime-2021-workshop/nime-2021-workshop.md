@@ -2,9 +2,9 @@
 description: 'A NIME 2021 workshop on Equality, Diversity and Inclusivity'
 ---
 
-# Actions We can Take to Improve Diversity and Inclusivity at NIME
+# Home
 
-## Description <a id="description-up-to-750-words"></a>
+## Actions We can Take to Improve Diversity and Inclusivity at NIME
 
 NIME has a diversity problem, and is remains largely white, male, American-European, able-bodied and English-speaking \(1\). We believe that groups with important insights and experiences are being underrepresented within NIME as authors \(such as non-male people, those who do not speak English as a first language, those with disabilities, and those of other races and ethnicities, just to name a few\), and that this underrepresentation means that important ideas and viewpoints that come from a wider range of lived experiences are missing.
 
@@ -13,121 +13,6 @@ Initial efforts to draw attention to diversity within NIME were in response to a
 “Diversity” is a complex term. At its simplest diversity describes differences within a group \(usually across lines of identity such as race, gender, sexuality, and so on\). However, simply acknowledging diversity does not address the structures of power that contribute to a lack of diversity in the first place \[6\], and here we acknowledge that simply pointing out differences does not go far enough.
 
 We propose extending this existing community work by viewing a lack of diversity through an intersectional lens. Intersectionality, coined by Crenshaw in 1989 \[7\], refers to the interconnectedness of all discrimination and the common roots in structural inequality \(and, most importantly, that focusing on a single axis of discrimination undermines anti-discrimination more widely\). With this workshop, we aim to be a point of departure for community discussion, not to address diversity within NIME in one strata \(such as gender\), but instead to examine the wider structures within the community that include some and exclude others, and to develop strategies to address them. In 2021 we have already begun a trial English-as-second-language assistance program and are developing financial scholarships, ideas drawn from the 2020 NIME diversity survey and subsequent discussions in collaboration with the NIME Ethical and Environmental workgroups, but this is just a start. We see this workshop as a an opportunity for “transforming silence into language and action” \[8\]; strategy is, as Ahmed states, “not only thought in action but thought sharpened by action.” \[9\]
-
-### Workshop activities <a id="workshop-activities"></a>
-
-We will begin this workshop by introducing the diversity officers. We will also share the results from our NIME 2020 diversity survey, and share initiatives that are currently underway.
-
-Next, musician and activist Kim Macari will give a presentation on topics relevant to this area in order to orient attendees around intersectional diversity thinking, such as the myth of meritocracy, signalling vs normalisation, effective methods for talking about diversity and inclusion, and building healthy teams.
-
-Then, we will invite workshop attendees to participate in 3 rounds of active discussion in breakout rooms of 4-5 people, using Discord. The goal is to focus on action, brainstorming ways of addressing various issues facing the NIME community and strategising methods of implementation. Teams are encouraged to take notes in Padlet, as groups will share their ideas afterwards.
-
-Topics of discussion may include, but are not limited to:
-
-* Inclusivity of NIME research on disability
-* Decolonizing NIME research
-* Feminist design approaches in NIME research
-* Quotas for NIME participation
-* Work across borders, and fostering international collaboration
-* Mentorship programmes for research within NIME.
-* Financial impediments to NIME participation: freelancers, artists, communities that are not as privileged
-* Geographical impediments to NIME participation: remote participation, accessibility, and attendance sponsorships
-* Collecting/publishing/open data on NIME attendees
-* How to encourage/collaborate with local communities/hack-spaces etc
-
-We will end with a call to action \(request for volunteers\).
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>Activity</b>
-      </th>
-      <th style="text-align:left"><b>Description</b>
-      </th>
-      <th style="text-align:left"><b>Time</b>
-      </th>
-      <th style="text-align:left"><b>Lead</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Introductions</td>
-      <td style="text-align:left">Welcome, and diversity officer and workshop organiser introductions</td>
-      <td
-      style="text-align:left">5 mins.</td>
-        <td style="text-align:left">Pardue et al.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Recap of actions</td>
-      <td style="text-align:left">Previous and current actions by the Diversity Team</td>
-      <td style="text-align:left">5 mins.</td>
-      <td style="text-align:left">Pardue</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Survey results presentation</td>
-      <td style="text-align:left">Presenting Diversity survey results</td>
-      <td style="text-align:left">30 mins.</td>
-      <td style="text-align:left">Martinez Avila</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Guest speaker</td>
-      <td style="text-align:left">Workshop keynote by Kim Macari + Q&amp;A</td>
-      <td style="text-align:left">50 mins.</td>
-      <td style="text-align:left">Macari</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Break</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">5 mins.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Three Breakout Rounds consisting of:</td>
-      <td style="text-align:left">3 x 45 mins.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Breakout discussions</td>
-      <td style="text-align:left">Small group discussion (see above).</td>
-      <td style="text-align:left">30 mins.</td>
-      <td style="text-align:left">One organiser per group</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Plenary discussions</td>
-      <td style="text-align:left">Each group presents their ideas.</td>
-      <td style="text-align:left">10 mins.</td>
-      <td style="text-align:left">Everyone</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Break</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">5 mins.</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Wrap up</td>
-      <td style="text-align:left">
-        <p>Closing remarks. Call for action and volunteers.</p>
-        <p>We will also keep rooms open for people to self-organise in groups for
-          further conversation.</p>
-      </td>
-      <td style="text-align:left">10 mins.</td>
-      <td style="text-align:left">Pardue</td>
-    </tr>
-  </tbody>
-</table>
-
-## Short Description <a id="short-description-up-to-70-words"></a>
-
-Addressing and fostering diversity within NIME is a complex endeavour, as diversity itself is a multifaceted concept. In this workshop we aim to discuss the existing diversity issues in NIME with members of the community, concerning access, gender, ethnical, financial, institutional, and epistemological disparities. We will also discuss the initiatives that are being put forward by the diversity officers and will call for action and volunteers.
 
 ## Organizers <a id="organizers"></a>
 
@@ -165,16 +50,6 @@ Astrid Bin is an artist, technologist and writer. Currently she is a music techn
 Macari also occupies a number of key positions within the arts world - Programmer for Vortex Jazz Club \(ranked in Top 10 jazz venues in the world 2020\), Chair of pan-national support body Jazz Promotion Network and is on the Music Team at Arts Council England. She often appears as a cultural commentator at a range of events and publications on topics including gender politics in the arts, diversity and inclusion, cultural identity and the implications of political decision making on the arts.
 
 [https://jazzconnective.eu/articles/21/where-are-all-the-good-questions-about-women-in-jazz/](https://jazzconnective.eu/articles/21/where-are-all-the-good-questions-about-women-in-jazz/)
-
-## Preferred Length of Workshop <a id="preferred-length-of-workshop"></a>
-
-Half-day \(3 hours\)
-
-## Technical and Space Requirements <a id="technical-and-space-requirements"></a>
-
-We will aim for a blended mode, where participants may join the workshop physically at the conference as well as remotely. A set of materials will be provided prior to the workshop using an asynchronous learning approach. We will use Discord \(or NIME2021 recommended alternative\) to create a server and run multiple voice channels for each of our discussion activities in breakout rooms and plenaries, and chat rooms for participants to have threaded conversations. During the breakout discussions we will also use Padlet for participants to post notes and comments.
-
-As discussions groups will be kept small to best encourage individual engagement \(which we already tested in our trial online workshop in January 2021\), discussion sessions can be run periodically throughout the day for different audiences across different time zones.
 
 ## Footnotes
 

@@ -9,6 +9,8 @@
 
 ## NIME 2021 Workshop
 
-* [Actions We can Take to Improve Diversity and Inclusivity at NIME](nime-2021-workshop/nime-2021-workshop.md)
+* [Home](nime-2021-workshop/nime-2021-workshop.md)
 * [Code of Conduct](nime-2021-workshop/code-of-conduct.md)
+* [Schedule](nime-2021-workshop/schedule.md)
+* [Discussion Topics](nime-2021-workshop/discussion-topics.md)
 
