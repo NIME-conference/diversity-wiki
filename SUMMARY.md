@@ -13,5 +13,5 @@
 
 ## NIME 2021 Workshop
 
-* [Untitled](nime-2021-workshop/untitled.md)
+* [Actions We can Take to Improve Diversity and Inclusivity at NIME](announcements/nime-2021-workshop.md)
 
