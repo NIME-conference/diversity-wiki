@@ -13,4 +13,5 @@
 * [Code of Conduct](nime-2021-workshop/code-of-conduct.md)
 * [Schedule](nime-2021-workshop/schedule.md)
 * [Discussion Topics](nime-2021-workshop/discussion-topics.md)
+* [Resources](nime-2021-workshop/resources.md)
 
