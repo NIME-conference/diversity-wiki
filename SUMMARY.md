@@ -2,10 +2,6 @@
 
 * [Welcome](README.md)
 
-## Announcements
-
-* [Actions We can Take to Improve Diversity and Inclusivity at NIME](announcements/nime-2021-workshop.md)
-
 ## Actions
 
 * [Online Diversity Workshop January 2021](actions/online-diversity-workshop.md)
