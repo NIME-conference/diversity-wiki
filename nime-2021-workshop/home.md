@@ -68,7 +68,7 @@ Macari also occupies a number of key positions within the arts world - Programme
 3. Born, G., & Devine, K. \(2016\). Gender, Creativity and Education in Digital Musics and Sound Art. Contemporary Music Review, 35\(1\), 1–20. 
 4. Morreale, F., Bin, S. M. A., McPherson, A., Stapleton, P., & Wanderley, M. \(2020\). A NIME Of The Times: Developing an Outward-Looking Political Agenda For This Community. In R. Michon & F. Schroeder \(Eds.\), Proceedings of the International Conference on New Interfaces for Musical Expression \(pp. 160–165\). Birmingham, UK: Birmingham City University. 
 5. Hayes, L., & Marquez-Borbon, A. \(2020\). Nuanced and Interrelated Mediations and Exigencies \(NIME\): Addressing the Prevailing Political and Epistemological Crises. In R. Michon & F. Schroeder \(Eds.\), Proceedings of the International Conference on New Interfaces for Musical Expression \(pp. 428–433\). Birmingham, UK: Birmingham City University. 
-6. Puritty, C., Strickland, L. R., Alia, E., Blonder, B., Klein, E., Kohl, M. T., … others. \(2017\). Without inclusion, diversity initiatives may not be enough. Science, 357\(6356\), 1101–1102. 
+6. Puritty, C., Strickland, L. R., Alia, E., Blonder, B., Klein, E., Kohl, M. T., et al. \(2017\). Without inclusion, diversity initiatives may not be enough. Science, 357\(6356\), 1101–1102. 
 7. Crenshaw, K. \(1989\). Demarginalizing the intersection of race and sex: A black feminist critique of antidiscrimination doctrine, feminist theory and antiracist politics. U. Chi. Legal f., 139. 
 8. Lorde, A. \(1977\). The transformation of silence into language and action. Identity Politics in the Women’s Movement, 81–84. 
 9. Ahmed, S. \(2016\). Living a feminist life \(p. 94\). Duke University Press. 
