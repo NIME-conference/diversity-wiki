@@ -6,7 +6,7 @@ description: 'A NIME 2021 workshop on Equality, Diversity and Inclusivity'
 
 ## Actions We can Take to Improve Diversity and Inclusivity at NIME
 
-![The logical symbol &#x2200; \(read as &quot;for all&quot;\) with the Philadelphia Pride Flag in the background.](../.gitbook/assets/frame-4.png)
+![The logical symbol &#x2200; \(read as &quot;for all&quot;\) with the Philadelphia Pride Flag in the background. Design: Juan Martinez Avila.](../.gitbook/assets/frame-4.png)
 
 NIME has a diversity problem, and it remains largely white, male, American-European, able-bodied and English-speaking \(1\). We believe that groups with important insights and experiences are being underrepresented within NIME as authors \(such as non-male people, those who do not speak English as a first language, those with disabilities, and those of other races and ethnicities, just to name a few\), and that this underrepresentation means that important ideas and viewpoints that come from a wider range of lived experiences are missing.
 

@@ -25,8 +25,7 @@ description: Half-day (4 hours)
       <td style="text-align:left">Welcome, and diversity officer and workshop organiser introductions</td>
       <td
       style="text-align:left">+ 0:00</td>
-      <td
-      style="text-align:left">5 mins.</td>
+        <td style="text-align:left">5 mins.</td>
         <td style="text-align:left">Pardue et al.</td>
     </tr>
     <tr>
@@ -140,6 +139,4 @@ description: Half-day (4 hours)
     </tr>
   </tbody>
 </table>
-
-
 
