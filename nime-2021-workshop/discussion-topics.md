@@ -1,6 +1,6 @@
 # Discussion Topics
 
-Topics of discussion may include, but are not limited to:
+Topics of discussion will include, but are not limited to:
 
 1) How is NIME and the NIME research context exclusionary to people with disabilities, from VI, to neurodivergence and more? What can we do to improve our inclusivity? <br/>
 2) What would local NIME chapters look like and how can we make them work? What would/could be the benefit? <br/>
