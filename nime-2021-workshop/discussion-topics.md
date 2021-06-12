@@ -1,7 +1,5 @@
 # Discussion Topics
 
-\(not necessarily in numerical order\)
-
 ## First session:
 
 1\) How is NIME and the NIME research context exclusionary to people with disabilities, from visual impairment, to neurodivergence and more? What can we do to improve our inclusivity?
