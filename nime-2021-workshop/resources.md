@@ -1,4 +1,4 @@
 # Resources
 
-Workshop slides
+{% file src="../.gitbook/assets/actionswecantake.pdf" caption="Workshop Slides" %}
 
