@@ -12,23 +12,23 @@
 
 4\) How could NIME be more relevant, engaging, and rewarding for those outside the academic tech. community, for instance, artists, performers, and makers?
 
-6\) Why is gender parity a persistent problem at NIME? Why have past efforts not worked? What new actions/strategies can we take to improve?
+5\) Why is gender parity a persistent problem at NIME? Why have past efforts not worked? What new actions/strategies can we take to improve?
 
 ## Second Session:
 
-5\) What is NIME’s responsibility to foster cultural exchange and how to make that occur, especially in the context of the conference itself?
+6\) What is NIME’s responsibility to foster cultural exchange and how to make that occur, especially in the context of the conference itself?
 
 7\) How could mentorship address issues of underrepresentation?
 
 8\) Who does the diversity work? How do we reward meaningful diversity work within the community and share the work between everyone?
 
-10\) How can we improve and continue the sheparding scheme \(English or NIME Academic-as-a-second-language\)?
+9\) How can we improve and continue the sheparding scheme \(English or NIME Academic-as-a-second-language\)?
 
-11\) How can we make a sustainable scholarship program and how do we best use it to reach our goals of improved representation?
+10\) How can we make a sustainable scholarship program and how do we best use it to reach our goals of improved representation?
 
 ## Third Session:
 
-9\) The vast majority of the people who present at, attend, and perform at NIME are white. What are the reasons for this? What needs to change?
+11\) The vast majority of the people who present at, attend, and perform at NIME are white. What are the reasons for this? What needs to change?
 
 12\) For those people attending NIME without a supervisor to guide them through “how to get the most from NIME”, how could we implement a NIME buddy system for the conference \(and conferences going forward\)?
 
