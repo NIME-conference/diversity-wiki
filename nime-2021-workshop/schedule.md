@@ -31,36 +31,36 @@ description: Half-day (4 hours)
     <tr>
       <td style="text-align:left">Survey results presentation</td>
       <td style="text-align:left">Presenting Diversity survey results</td>
-      <td style="text-align:left">+ 0:10</td>
-      <td style="text-align:left">30 mins.</td>
+      <td style="text-align:left">+ 0:05</td>
+      <td style="text-align:left">20 mins.</td>
       <td style="text-align:left">Martinez Avila</td>
     </tr>
     <tr>
       <td style="text-align:left">Recap of actions</td>
       <td style="text-align:left">Previous and current actions by the Diversity Team</td>
-      <td style="text-align:left">+ 0:05</td>
+      <td style="text-align:left">+ 0:25</td>
       <td style="text-align:left">5 mins.</td>
       <td style="text-align:left">Pardue</td>
     </tr>
     <tr>
       <td style="text-align:left">Break</td>
       <td style="text-align:left">-</td>
-      <td style="text-align:left">+ 1:30</td>
+      <td style="text-align:left">+ 0:30</td>
       <td style="text-align:left">5 min</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Guest speaker</td>
       <td style="text-align:left">Workshop keynote by Kim Macari + Q&amp;A</td>
-      <td style="text-align:left">+ 0:40</td>
+      <td style="text-align:left">+ 0:35</td>
       <td style="text-align:left">50 mins.</td>
       <td style="text-align:left">Macari</td>
     </tr>
     <tr>
       <td style="text-align:left">Break</td>
       <td style="text-align:left">-</td>
-      <td style="text-align:left">+ 1:30</td>
-      <td style="text-align:left">5 mins.</td>
+      <td style="text-align:left">+ 1:25</td>
+      <td style="text-align:left">10 mins.</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
