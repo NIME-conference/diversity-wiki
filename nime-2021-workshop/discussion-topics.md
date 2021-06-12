@@ -2,9 +2,10 @@
 
 Topics of discussion will include, but are not limited to:
 
-1\) How is NIME and the NIME research context exclusionary to people with disabilities, from VI, to neurodivergence and more? What can we do to improve our inclusivity?   
+1\) How is NIME and the NIME research context exclusionary to people with disabilities, from visual impairment, to neurodivergence and more? What can we do to improve our inclusivity?
+
   
- 2\) What would local NIME chapters look like and how can we make them work? What would/could be the benefit?
+ 2\) What would local NIME chapters look like and how can we make them work? What would/could be the benefit? <BR/>
  
  3\) Usually NIME is an in-person conference and most people travel. However, this excludes those without access to the financial resources to attend. What can we do to make a remote conference experience as rewarding and beneficial as being there in person?   
   
