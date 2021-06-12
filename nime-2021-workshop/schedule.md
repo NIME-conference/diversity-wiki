@@ -43,6 +43,13 @@ description: Half-day (4 hours)
       <td style="text-align:left">Martinez Avila</td>
     </tr>
     <tr>
+      <td style="text-align:left">Break</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">+ 1:30</td>
+      <td style="text-align:left">5 min</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Guest speaker</td>
       <td style="text-align:left">Workshop keynote by Kim Macari + Q&amp;A</td>
       <td style="text-align:left">+ 0:40</td>
@@ -92,7 +99,7 @@ description: Half-day (4 hours)
       <td style="text-align:left">One organiser per group</td>
     </tr>
     <tr>
-      <td style="text-align:left">Round One Plenary discussions</td>
+      <td style="text-align:left">Round Two Plenary discussions</td>
       <td style="text-align:left">Each group presents their ideas.</td>
       <td style="text-align:left">+ 2:50</td>
       <td style="text-align:left">10 mins.</td>
@@ -113,7 +120,7 @@ description: Half-day (4 hours)
       <td style="text-align:left">One organiser per group</td>
     </tr>
     <tr>
-      <td style="text-align:left">Round One Plenary discussions</td>
+      <td style="text-align:left">Round Three Plenary discussions</td>
       <td style="text-align:left">Each group presents their ideas.</td>
       <td style="text-align:left">+ 3:35</td>
       <td style="text-align:left">10 mins.</td>
