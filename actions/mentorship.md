@@ -27,9 +27,7 @@ The mentor and the mentee will develop the idea/topic proposed by the mentee in 
 
 ### **How to apply to become a mentor**
 
-Each mentor candidate needs to submit a fill the form with the information about why she/he is capable of being a mentor and where she/he fits, in terms of expertise and in terms of whom she/he would like to mentor as well as a google scholar link or CV.
-
-Apply here: https://vault.oddworlds.org/apps/forms/w88DdRxJomykJ3WM
+Each mentor candidate needs to submit a fill the form with the information about why she/he is capable of being a mentor and where she/he fits, in terms of expertise and in terms of whom she/he would like to mentor as well as a google scholar link or CV. Please apply [here](https://vault.oddworlds.org/apps/forms/w88DdRxJomykJ3WM). 
 
 ## Important dates and submission
 
@@ -41,9 +39,8 @@ The following timeline assumes the usual NIME deadline \(end of January\)
 
 Submission of the material should be made via the following forms:
 
-Form for mentees https://vault.oddworlds.org/apps/forms/9jQNeaet4FnJD49c
-
-Form for mentors https://vault.oddworlds.org/apps/forms/w88DdRxJomykJ3WM
+[Form for mentees ](https://vault.oddworlds.org/apps/forms/9jQNeaet4FnJD49c)  
+[Form for mentors ](https://vault.oddworlds.org/apps/forms/w88DdRxJomykJ3WM)
 
 ## Contacts
 
