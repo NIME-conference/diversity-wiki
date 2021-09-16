@@ -44,7 +44,8 @@ Submission of the material should be made via the following forms:
 
 ## Contacts
 
-If you have any questions, doubts, or suggestions feel free to contact us at: 
+If you have any questions, doubts, or suggestions feel free to contact us at: [NIMEmentorship@raulmasu.org](mailto:NIMEmentorship@raulmasu.org)
 
-[NIMEmentorship@raulmasu.org](mailto:NIMEmentorship@raulmasu.org)
+Cualquier pregunta, duda o sugerencia en español, favor de contactar a:  
+[Juan Martinez Avila](mailto:psxjpma@nott.ac.uk)
 
