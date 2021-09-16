@@ -37,7 +37,7 @@ The following timeline assumes the usual NIME deadline \(end of January\)
 * 6th October - notification to mentors and mentees about the selection and the coupling
 * 7th October - Kickstart meeting of the program
 
-Submission of the material should be made via the following forms:
+Submissions should be made via the following forms:
 
 [Form for mentees ](https://vault.oddworlds.org/apps/forms/9jQNeaet4FnJD49c)  
 [Form for mentors ](https://vault.oddworlds.org/apps/forms/w88DdRxJomykJ3WM)
