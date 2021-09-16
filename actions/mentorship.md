@@ -49,3 +49,6 @@ If you have any questions, doubts, or suggestions feel free to contact us at: [N
 Cualquier pregunta, duda o sugerencia en español, favor de contactar a:  
 [Juan Martinez Avila](mailto:psxjpma@nott.ac.uk)
 
+Qualquer pergunta, dúvida ou sugestão em português, sinta-se à vontade de entrar em contato conosco através de:  
+[João Tragtenberg](mailto:tragtenberg@gmail.com)
+
