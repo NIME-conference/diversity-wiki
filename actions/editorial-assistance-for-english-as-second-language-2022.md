@@ -1,14 +1,29 @@
-# Editorial Assistance Pilot Scheme in NIME 2021
+# NIME 2022 English-As-A-Second-Language (ESL) Editorial Assistance
 
-One of the initiatives that came out of last year’s diversity survey is providing assistance for NIME authors for whom English is not their first language. The NIME diversity team held a small workshop in mid-January where we discussed this as well as a number of ideas for improving accessibility, diversity, and inclusivity at NIME. While we’re drafting our notes and proposals on other ideas, one of the more immediately time sensitive is editorial proof-reading of submissions. 
+The English -As-A-Second-Language Editorial Assistance shepherding scheme is designed as a tool to level the field for authors who are non-native English speakers accepted to publish at NIME.  It is the result of suggestions and discussions from the NIME Diversity Survey and 2021 Diversity Workshops and has been adopted as an exciting initiativive to help improve diversity and inclusion within NIME.  
 
-Last year’s NIME was predominately attended by native English speakers \(~48% NIME 2020 general survey - though admittedly, being officially held in the UK likely adds to the native English bias\) despite world-wide involvement in the conference. Written English assistance would hopefully help counter some of the disadvantages non-native English speakers encounter when competing against native speakers especially for early career academics where access to English-language expertise may be lower or otherwise self-funded. It might also be something suitable for improving involvement of neuro-divergent participants.
+According to the NIME 2020 General Survey, 48% of NIME attendees reported being from native English speaking countries, compared with native English speakers making up roughly 5% of the global population.  Many of us have probably read (or will read) papers with good ideas, but where the author’s current level of English impairs the communication of these ideas.   Whether you have unintentionally benefited from the privilege of writing publications in your first language, or have struggled with and now mastered writing outside your first language, we’re hoping you might be interested in helping those still at a disadvantage.
 
-For NIME 2021 we have recruited volunteers who will provide feedback and guidance to authors of submissions that have been identified as candidates for this pilot scheme by the meta-reviewers. It must be noted that the feedback provided is intended to improve the quality of papers that have already been provisionally accepted and is assistance is limited to tackling communication issues \(e.g. grammar, syntax, and academic style\), and is NOT intended to assist in idea formulation or substantial content editing / restructuring that could give authors and unfair advantage over others.    
+To volunteer as an assistant editor, you do not need to be a native English speaker, however you do need to be confident that your written English is sufficiently fluent to provide correct feedback.
 
-In the long run, we are thinking of setting up a shepherding system that is incorporated into the reviewing process. Reviewers who think a paper may be worth accepting but needs significant editorial work for language reasons can provisionally accept, recommending it for language assistance. Papers successfully improved could then be accepted into the conference.   
-  
-If you have any questions about this pilot scheme please contact the diversity team.
+Last year (2021) we had our first ever pilot English/NIME-As-A-Second Languge editorial assistance scheme.  We had 16 volunteer editors and 7 papers that recieved E/NSL help, and ended up providing QA for papers needing shortening.  With the addition of the inaugural Mentorship program, we are just focusing on ESL for post-review editorial assistance.
+
+As an Editorial Volunteer:
+
+What to expect:
+
+We are expecting acceptance notifications sometimes around March 14th-19th.  At that point you will be assigned a paper based the number of papers eligible, your relevant expertise and whether or not you have requested to provide assistance for a paper you reviewed.  Feedback as an editor will not be anonymous, though whether you reviewed the paper will remain anonymous.  You will be responsible for coordinating with the assigned author and confirming improvements to any provisionally accepted papers.  The date for completing editing assistance will be announced once registration deadlines and camera ready deadlines are announced.  
+
+What kind of feedback is allowed:
+
+Feedback should be limited where communications issues could be due to language.  For example, helping with sentence phrasing is okay; helping with professional language is okay; so is help with syntax, grammar, and word choice.  Examples of what is not okay would be helping with structural changes, references, idea formation, or rewriting of research.  If a paper has had feedback on such topics from a reviewer you have leeway to decide whether to assist or not.  If authors are struggling to understand feedback from a review, helping to clarify it as you understand it is encouraged.  A reminder, papers have already been through the review process.  The idea isn’t to give people a potentially unfair advantage for acceptance to NIME, but to help (provisionally) accepted authors at a language disadvantage ensure a good publication.  If you find yourself questioning whether something is appropriate, feel free to ask 
+
+How to give feedback:
+
+As with last year, we are going to leave feedback styles up to you and the authors you are assigned to assist.  You can try PubPub, Overleaf, or sending PDFs-back-and-forth.  This includes that if you feel like the fastest approach is to have a virtual face-to-face feedback session, for instance due to a paper with small but regular errors, please do.  If you are able to help authors understand why you are recommending changes, that would be brilliant.
+
+
+If you have any questions about the ESL scheme please contact the diversity team.
 
 ## Contact
 
