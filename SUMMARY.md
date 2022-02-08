@@ -3,7 +3,7 @@
 * [Welcome](README.md)
 
 ## Actions
-
+* [ESL Editorial Assistance for NIME 2022](actions/editorial-assistance-for-english-as-second-language-2022.md)
 * [Mentorship Programme Call](actions/mentorship.md)
 * [Online Diversity Workshop January 2021](actions/online-diversity-workshop.md)
 * [Editorial Assistance Pilot Scheme in NIME 2021](actions/editorial-assistance-for-english-as-second-language-submissions-pilot-scheme.md)
