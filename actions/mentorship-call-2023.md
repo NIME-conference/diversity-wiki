@@ -1,4 +1,4 @@
-# Diversity and Inclusion Mentorship Program for 2023
+# Mentorship Call for Applications
 
 The objective of the NIME mentorship program is to increase the inclusiveness of our community by helping NIME newcomers, especially underrepresented groups and non-native speakers, to be onboarded in the NIME discourse. A mentor is expected to help a newcomer (mentee) positioning her/his work within the NIME discourse and the mentorship would result in a co-authored NIME submission.
 
@@ -13,7 +13,7 @@ Being the first edition of the program, we understand that some people are not i
 
 #### How to apply for a mentor
 
-To apply for the mentorship program, it is required to submit 1) a short paragraph (abstract) with a research topic/idea (up to 300 words) and 2) a motivation letter (up to 300 words). In the motivation letter, the applicant should ask what type of mentor they want (language, gender, or any other type of preference) and why they would like to have a mentor. Apply [here](https://vault.oddworlds.org/apps/forms/9jQNeaet4FnJD49c)
+To apply for the mentorship program, it is required to submit 1) a short paragraph (abstract) with a research topic/idea (up to 300 words) and 2) a motivation letter (up to 300 words). In the motivation letter, the applicant should ask what type of mentor they want (language, gender, or any other type of preference) and why they would like to have a mentor. Apply [here](https://vault.oddworlds.org/apps/forms/9jQNeaet4FnJD49c).
 
 ## Who can be a mentor?
 
@@ -25,7 +25,7 @@ The mentor and the mentee will develop the idea/topic proposed by the mentee in 
 
 #### How to apply to become a mentor
 
-Each mentor candidate needs to submit a fill the form with the information about why she/he is capable of being a mentor and where she/he fits, in terms of expertise and in terms of whom she/he would like to mentor as well as a google scholar link or CV. Apply [here](https://vault.oddworlds.org/apps/forms/Tpk2sPG32iBoMH4T).
+Each mentor candidate needs to submit a fill the form with the information about why she/he/they is capable of being a mentor and where she/he fits, in terms of expertise and in terms of whom she/he/they would like to mentor as well as a google scholar link or CV. Apply [here](https://vault.oddworlds.org/apps/forms/w88DdRxJomykJ3WM).
 
 ## Important Dates and submission information
 
@@ -37,6 +37,6 @@ The following timeline assumes the usual NIME deadline (end of January)
 Submission of the material should be made via the following forms:
 
 * [Form for mentees](https://vault.oddworlds.org/apps/forms/9jQNeaet4FnJD49c)
-* [Form for mentors](https://vault.oddworlds.org/apps/forms/Tpk2sPG32iBoMH4T)
+* [Form for mentors](https://vault.oddworlds.org/apps/forms/w88DdRxJomykJ3WM)
 
-If you have any questions, doubts, or suggestions feel free to contact us: raul [at] raulmasu [dot] org
+If you have any questions, doubts, or suggestions feel free to contact us: raul \[at] raulmasu \[dot] org
