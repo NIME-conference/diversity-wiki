@@ -45,4 +45,4 @@ Submission of the material should be made via the following forms:
 * [Form for mentees](https://vault.oddworlds.org/apps/forms/9jQNeaet4FnJD49c)
 * [Form for mentors](https://vault.oddworlds.org/apps/forms/w88DdRxJomykJ3WM)
 
-If you have any questions, doubts, or suggestions feel free to contact [Raul Masu](https://emailto:raul@raulmasu.org)
+**If you have any questions, doubts, or suggestions feel free to contact** [**Raul Masu**](https://emailto:raul@raulmasu.org)****
