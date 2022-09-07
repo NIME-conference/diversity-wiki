@@ -2,6 +2,10 @@
 
 The objective of the NIME mentorship program is to increase the inclusiveness of our community by helping NIME newcomers, especially underrepresented groups and non-native speakers, to be onboarded in the NIME discourse. A mentor is expected to help a newcomer (mentee) positioning her/his work within the NIME discourse and the mentorship would result in a co-authored NIME submission.
 
+Si necesitas una traducción al Español por favor contacta a [psxjpma@nott.ac.uk](https://emailto:psxjpma@nott.ac.uk)
+
+Se avete bisogno di aiuto con l'inglese contattate [raul@raulmasu.org](https://emailto:raul@raulmasu.org)
+
 ## Who can be a mentee?
 
 There are two main categories of mentees:
@@ -39,4 +43,4 @@ Submission of the material should be made via the following forms:
 * [Form for mentees](https://vault.oddworlds.org/apps/forms/9jQNeaet4FnJD49c)
 * [Form for mentors](https://vault.oddworlds.org/apps/forms/w88DdRxJomykJ3WM)
 
-If you have any questions, doubts, or suggestions feel free to contact us: raul \[at] raulmasu \[dot] org
+If you have any questions, doubts, or suggestions feel free to contact [Raul Masu](https://emailto:raul@raulmasu.org)
